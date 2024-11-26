@@ -1,0 +1,20 @@
+title: Christiana Opeyemi Adeyoyin # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Skilled Data Analyst with experience across various sectors such as finance, health etc. 
+  Expertise in SQL, Power BI, Excel, and Python. Equipped with a proven track record of leveraging 
+  data-driven insights to drive strategic decision-making and optimize business processes. Proficient in analyzing
+  complex datasets, developing actionable recommendations, and communicating findings effectively to stakeholders.
+  Adept at creating dynamic visualizations in Power BI to enhance data comprehension.Dedicated to continuous learning 
+  and staying abreast of emerging technologies to drive innovation and deliver value-added solutions such as leveraging 
+  cloud technologies like Azure Data Lake and BigQuery to efficiently store, process, and analyze large datasets.
+
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
